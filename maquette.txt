@@ -1,0 +1,506 @@
+Page: **Accueil**
+ - Barre de navigation
+ - Section En-tête Hero: Présentation claire de la plateforme, mise en avant des avantages clés pour acheteurs et vendeurs avec un appel à l'action pour s'inscrire ou découvrir le catalogue.
+ - Section Liste de Fonctionnalités: Présentation des fonctionnalités principales : inscription multi-rôles, gestion profil, sécurisation par email, catalogue multi-vendeurs, paiement sécurisé, suivi commandes, avis vérifiés.
+ - Section Services: Présentation des services proposés aux acheteurs (achat simple, suivi commande) et aux vendeurs (création boutique, gestion produits, statistiques).
+ - Section Avantages: Mise en avant des bénéfices de la plateforme : sécurité, simplicité, diversité du catalogue, support réactif.
+ - Section Témoignages: Témoignages d’utilisateurs (acheteurs et vendeurs) mettant en valeur la fiabilité et facilité d’utilisation.
+ - Section CTA (Appel à l'Action): Invitation à s’inscrire ou à parcourir le catalogue.
+ - Section FAQ: Aperçu de questions fréquentes pour rassurer et orienter les nouveaux utilisateurs.
+ - Section Contact: Informations pour contacter l’équipe ou obtenir de l’aide rapidement.
+ - Pied de Page
+
+Sub-pages: Inscription/Connexion, Catalogue, Vendeurs, Achat, Avis, Administration, FAQ, Contact
+
+
+Page: **Inscription/Connexion**
+ - Barre de navigation
+ - Section En-tête: Présentation succincte de la plateforme et invitation à se connecter ou créer un compte, avec un rappel des rôles disponibles (acheteur, vendeur, admin).
+ - Section Formulaire CTA: Formulaire d’inscription avec choix du rôle (acheteur/vendeur) et champs nécessaires (nom, email, mot de passe).
+ - Section Formulaire CTA: Formulaire de connexion pour utilisateurs existants (email, mot de passe).
+ - Section Formulaire de Contact: Lien pour assistance ou contact en cas de problème de connexion.
+ - Section FAQ: Questions fréquentes sur l’inscription, la connexion, la vérification email et la réinitialisation de mot de passe.
+ - Pied de Page
+
+Page: **Catalogue**
+ - Barre de navigation
+ - Section En-tête: Présentation du catalogue, mise en avant de la diversité des produits et invitation à explorer les catégories ou à utiliser la recherche.
+ - Section Liste de Fonctionnalités: Présentation des fonctionnalités de navigation : recherche avancée, filtres par catégories, variantes produits (taille, couleur), et visualisation d’images multiples.
+ - Section Liste de Portfolio: Affichage des produits sous forme de grille/listing avec images, titres, prix, vendeurs, et accès à la fiche produit détaillée.
+ - Section FAQ: Questions fréquentes sur l’utilisation du catalogue, la recherche de produits, et la gestion des filtres.
+ - Pied de Page
+
+Sub-pages: Produit
+
+
+Page: **Produit**
+ - Barre de navigation
+ - Section En-tête de Produit Ecommerce: En-tête avec nom du produit, images principales et informations clés (prix, disponibilité, vendeur).
+ - Section Produit Ecommerce: Détail complet du produit : description, caractéristiques, variantes (taille, couleur), galerie d’images multiples.
+ - Section Liste de Fonctionnalités: Éléments clés spécifiques au produit : options de livraison, retour, garantie, informations vendeur.
+ - Section Témoignages: Avis clients : notes, commentaires, photos, réponse du vendeur, modération visible.
+ - Section CTA (Appel à l'Action): Bouton d’achat « Ajouter au panier » et options de contact avec le vendeur.
+ - Section FAQ: Questions fréquentes sur le produit (livraison, retour, disponibilité).
+ - Pied de Page
+
+Page: **Vendeurs**
+ - Barre de navigation
+ - Section En-tête: Présentation de l’espace dédié aux vendeurs : met en avant les avantages de vendre sur la plateforme et l’appel à postuler pour devenir vendeur.
+ - Section Liste de Fonctionnalités: Liste des fonctionnalités pour vendeurs : candidature avec validation admin, création/gestion boutique, upload catalogue, gestion stocks, dashboard statistiques, gestion commandes, messagerie acheteurs.
+ - Section Statistiques: Aperçu de l’accès au dashboard statistiques pour les vendeurs (ventes, commandes, performances).
+ - Section Témoignages: Retours d’expérience de vendeurs satisfaits (succès, simplicité d’utilisation, support).
+ - Section CTA (Appel à l’Action): Invitation à déposer une candidature vendeur ou se connecter à l’espace vendeur.
+ - Section FAQ: Questions fréquentes sur le fonctionnement, les critères d’acceptation, la gestion des boutiques et les commissions.
+ - Section Contact: Possibilité de contacter l’équipe support pour toute demande liée à la vente.
+ - Pied de Page
+
+Sub-pages: Boutique
+
+
+Page: **Boutique**
+ - Barre de navigation
+ - Section En-tête: Présentation de la boutique: nom, logo, description, bannière éventuelle.
+ - Section Équipe: Présentation du/des vendeur(s) ou responsable(s) de la boutique (facultatif si pertinent).
+ - Section Liste de Fonctionnalités: Mise en avant des spécificités/services de la boutique : livraison, politique retour, exclusivités, engagements qualité (jusqu’à 3).
+ - Section Galerie: Galerie d’images mettant en avant la boutique, ses produits phares ou son univers visuel.
+ - Section Liste de Portfolio: Présentation visuelle des produits mis en avant ou best-sellers de la boutique.
+ - Section Liste de Produits Ecommerce: Liste complète des produits de la boutique, filtrable/triable par catégories, prix, nouveautés, etc.
+ - Section Témoignages: Avis et retours clients spécifiques à la boutique.
+ - Section Contact: Formulaire ou informations pour contacter directement la boutique/vendeur.
+ - Pied de Page
+
+Page: **Achat**
+ - Barre de navigation
+ - Section En-tête: Titre clair (ex : "Finaliser mon achat"), rappel du panier multi-vendeurs et des étapes du processus d'achat.
+ - Section Comment ça Marche: Présentation visuelle en 3 étapes (Panier → Livraison → Paiement) pour rassurer l'utilisateur sur la simplicité du processus.
+ - Section Liste de Fonctionnalités: Liste des fonctionnalités principales du module Achat :
+ - Section Tarification: Résumé du panier avec détails des prix, frais de port, taxes éventuelles, et total à payer.
+ - Section CTA (Appel à l'Action): Bouton d'action pour procéder au paiement ("Payer maintenant" ou similaire).
+ - Section Contact: Lien ou encart d’aide en cas de problème durant l’achat (support client ou FAQ dédiée).
+ - Pied de Page
+
+Sub-pages: Panier, Suivi Commande
+
+
+Page: **Panier**
+ - Barre de navigation
+ - Section Produit Ecommerce: Présentation des produits ajoutés au panier, regroupés par vendeur, avec détails (nom, image, variante, prix, quantité, sous-total).
+ - Section Tarification: Résumé clair du montant total, sous-total, frais de port estimés, et taxes éventuelles.
+ - Section CTA (Appel à l'Action): Bouton principal pour passer à l’étape de paiement (checkout) et lien pour continuer ses achats.
+ - Section FAQ: Réponses aux questions fréquentes sur le panier, le paiement ou la gestion des produits dans le panier.
+ - Section Contact: Lien ou court formulaire de contact pour assistance rapide en cas de problème avec le panier.
+ - Pied de Page
+
+Page: **Suivi Commande**
+ - Barre de navigation
+ - Section En-tête: Titre « Suivi de Commande », résumé de la fonctionnalité (consulter le statut, voir les détails et l’historique de vos commandes en temps réel).
+ - Section Comment ça Marche: Étapes pour utiliser le suivi de commande : connexion, accès à l’historique, consultation du statut, notifications de mise à jour.
+ - Section Chronologie: Affichage visuel de la progression des commandes (confirmée, en préparation, expédiée, livrée) avec dates et détails.
+ - Section Liste de Fonctionnalités: Liste des fonctionnalités disponibles : détails des produits commandés, informations de livraison, suivi du colis, messagerie avec le vendeur, signalement d’un problème/litige.
+ - Section FAQ: Questions fréquentes sur le suivi des commandes, retours, délais, et résolution de problèmes.
+ - Section Contact: Formulaire ou informations pour contacter le support en cas de souci avec une commande.
+ - Pied de Page
+
+Page: **Avis**
+ - Barre de navigation
+ - Section En-tête de Publication de Blog: Introduction à la page des avis : expliquer l’importance des avis pour la communauté et encourager à partager une expérience.
+ - Section Liste de Fonctionnalités: Présentation rapide des fonctionnalités du système d’avis : notation 5 étoiles, avis texte, ajout de photos, réponse vendeur, modération.
+ - Section Avis: Liste des avis récents sur les produits, possibilité de filtrer par produit, vendeur ou note ; chaque avis affiche la note, le texte, les photos, la réponse du vendeur s’il y a lieu, et l’indication de modération.
+ - Section CTA (Appel à l'Action): Encouragement à laisser un avis, avec bouton pour rédiger un nouvel avis sur un produit acheté.
+ - Section FAQ: Questions fréquentes sur la publication/modération des avis et leur utilité pour la communauté.
+ - Pied de Page
+
+Page: **Administration**
+ - Barre de navigation
+ - Section En-tête: Titre de la page d’administration avec sous-titre présentant les outils de gestion disponibles pour les administrateurs.
+ - Section Fonctionnalité: Dashboard global : vue d’ensemble des indicateurs clés (utilisateurs, vendeurs, commandes, litiges).
+ - Section Liste de Fonctionnalités: Bloc listant les fonctionnalités d’administration :
+ - Section Témoignages: Retours ou citations d’administrateurs sur la facilité d’utilisation du tableau de bord (facultatif, à adapter selon besoin).
+ - Section CTA (Appel à l'Action): Lien ou bouton vers l’espace d’exportation ou pour contacter le support technique administrateur.
+ - Pied de Page
+
+Page: **FAQ**
+ - Barre de navigation
+ - Section En-tête: Titre "Foire aux Questions" avec un court texte introductif rassurant et expliquant l'objectif de la page (aider les utilisateurs à trouver rapidement des réponses).
+ - Section FAQ: Liste structurée des questions/réponses les plus fréquentes, couvrant l’inscription, la gestion du compte, l’achat, la vente, la sécurité, les avis, le paiement, le suivi de commande, etc.
+ - Section CTA (Appel à l'Action): Encouragement à contacter le support si la réponse n’a pas été trouvée dans la FAQ, avec un bouton vers la page de contact ou formulaire rapide.
+ - Pied de Page
+
+Page: **Contact**
+ - Barre de navigation
+ - Section En-tête: Titre accrocheur et court texte introductif invitant les utilisateurs à contacter l’équipe pour toute question, demande d’assistance ou renseignement.
+ - Section Formulaire de Contact: Formulaire de contact permettant de saisir nom, email, sujet, message, et éventuellement joindre un fichier.
+ - Section Contact: Coordonnées (adresse e-mail, numéro de téléphone, adresse postale si pertinent) et horaires de disponibilité du support.
+ - Section FAQ: Lien ou aperçu vers la FAQ pour orienter les utilisateurs vers les réponses aux questions fréquentes.
+ - Pied de Page
+
+Sitemap: **Sitemap 1**
+Pages: Accueil
+
+Page: **Accueil**
+ - Barre de navigation
+ - Section En-tête Hero: Présentation claire de la marketplace (ex : "Achetez & vendez facilement sur notre plateforme multi-vendeurs sécurisée") avec un visuel attractif et un CTA principal ("Découvrir le catalogue" / "Créer un compte").
+ - Section Liste de Fonctionnalités: Présentation synthétique des principales fonctionnalités :
+ - Section Comment ça Marche: Étapes simples pour utiliser la plateforme :
+ - Section Témoignages: Témoignages de clients ou vendeurs satisfaits (extraits courts)
+ - Section CTA (Appel à l'Action): Invitation à rejoindre la plateforme ("Inscrivez-vous gratuitement" ou "Devenir vendeur dès aujourd’hui")
+ - Section FAQ: Questions fréquentes pour rassurer et informer les nouveaux utilisateurs
+ - Pied de Page
+
+Sub-pages: Inscription/Connexion, Profil Utilisateur, Réinitialisation Mot de Passe, Vérification Email, Candidature Vendeur, Boutique, Catalogue, Fiche Produit, Panier, Commande, Avis Produit, Administration
+
+
+Page: **Inscription/Connexion**
+ - Barre de navigation
+ - Section En-tête Hero: Message d’accueil, présentation rapide de la plateforme, encouragement à rejoindre ou se connecter
+ - Section Formulaire CTA: Formulaire d’inscription multi-rôles (acheteur/vendeur/admin)
+ - Section Formulaire de Contact: Lien ou encart pour obtenir de l’aide en cas de problème de connexion/inscription
+ - Section CTA: Invitation à découvrir les avantages de l’inscription ou à accéder à la FAQ
+ - Pied de Page
+
+Page: **Profil Utilisateur**
+ - Barre de navigation
+ - Section En-tête: Présentation du profil utilisateur avec nom, rôle, et photo/avatar
+ - Section Fonctionnalité: Gestion/modification des informations du profil (nom, email, mot de passe, photo, etc.)
+ - Section Fonctionnalité: Gestion des préférences de notification (email, in-app)
+ - Section Fonctionnalité: Historique des commandes et accès rapide au suivi de commande
+ - Section CTA: Lien ou bouton pour contacter le support ou accéder à la FAQ
+ - Pied de Page
+
+Page: **Réinitialisation Mot de Passe**
+ - Barre de navigation
+ - Section En-tête: Titre clair : "Réinitialisation du mot de passe" avec explication brève
+ - Section Formulaire de Contact: Formulaire de réinitialisation du mot de passe (entrée email, bouton d'envoi)
+ - Pied de Page
+
+Page: **Vérification Email**
+ - Barre de navigation
+ - Section En-tête: Message de bienvenue et explication de la vérification d'email
+ - Section Fonctionnalité: Étape de vérification du code reçu par email
+ - Section CTA (Appel à l'Action): Bouton pour renvoyer l'email ou pour confirmer la vérification
+ - Pied de Page
+
+Page: **Candidature Vendeur**
+ - Barre de navigation
+ - Section En-tête: Introduction à la candidature vendeur et avantages de devenir vendeur
+ - Section Liste de Fonctionnalités: Présentation des étapes ou exigences clés pour la candidature vendeur (création boutique, validation admin, etc.)
+ - Section Formulaire CTA: Formulaire pour soumettre la candidature vendeur
+ - Section FAQ: Réponses aux questions courantes sur le processus de candidature vendeur
+ - Section CTA: Appel à l’action pour contacter le support en cas de besoin
+ - Pied de Page
+
+Page: **Boutique**
+ - Barre de navigation
+ - Section En-tête: Présentation de la boutique (nom, description, logo, liens principaux)
+ - Section Galerie: Galerie d’images de la boutique ou produits phares
+ - Section Liste de Fonctionnalités: Liste des services ou avantages proposés par la boutique
+ - Section Liste de Produits Ecommerce: Affichage du catalogue produits de la boutique (grille ou liste)
+ - Section Témoignages: Avis clients sur la boutique
+ - Section Contact: Informations de contact ou formulaire pour joindre le vendeur
+ - Pied de Page
+
+Sub-pages: Tableau de bord Boutique, Catalogue Produits, Inventaire & Stocks
+
+
+Page: **Tableau de bord Boutique**
+ - Barre de navigation
+ - Section En-tête: Titre du tableau de bord et présentation synthétique de la boutique
+ - Section Statistiques: Affichage des chiffres clés : ventes, commandes, produits, taux de conversion
+ - Section Liste de Fonctionnalités: Liste des actions possibles : gérer produits, suivre commandes, voir messages
+ - Section Témoignages: Avis récents ou retours clients sur la boutique
+ - Section CTA: Encouragement à ajouter un nouveau produit ou à consulter les performances détaillées
+ - Pied de Page
+
+Page: **Catalogue Produits**
+ - Barre de navigation
+ - Section En-tête: Titre et description de la page, mise en avant de la diversité du catalogue
+ - Section Liste de Fonctionnalités: Navigation par catégories, recherche avec filtres, gestion des variantes (taille, couleur)
+ - Section Liste de Produits Ecommerce: Affichage des produits avec images, titres, prix, options principales
+ - Section FAQ: Questions fréquentes concernant le catalogue et l’achat
+ - Section CTA: Invitation à découvrir les nouveautés ou à s’inscrire pour bénéficier d’offres
+ - Pied de Page
+
+Page: **Inventaire & Stocks**
+ - Barre de navigation
+ - Section En-tête: Titre de la page, introduction à la gestion de l’inventaire et des stocks pour les vendeurs
+ - Section Fonctionnalité: Visualisation de l’inventaire en temps réel (liste des produits, quantités disponibles, alertes de stock bas)
+ - Section Fonctionnalité: Modification rapide des niveaux de stock (ajouter, retirer, mettre à jour les quantités)
+ - Section Fonctionnalité: Gestion des variantes de produits (taille, couleur, etc.)
+ - Section Statistiques: Statistiques basiques sur l’état des stocks (produits en rupture, seuils d’alerte)
+ - Section FAQ: Questions fréquentes sur la gestion des stocks
+ - Section CTA: Lien ou bouton pour ajouter un nouveau produit ou accéder au catalogue complet
+ - Pied de Page
+
+Page: **Catalogue**
+ - Barre de navigation
+ - Section En-tête: Titre de la page Catalogue avec un résumé de l’offre produits
+ - Section Liste de Fonctionnalités: Navigation par catégories, Recherche produits avec filtres, Gestion variantes simples
+ - Section Liste de Portfolio: Affichage de la liste des produits avec image, titre, prix
+ - Section FAQ: Questions fréquentes sur le catalogue et la recherche
+ - Section CTA: Encourage l’utilisateur à s’inscrire pour acheter ou vendre
+ - Pied de Page
+
+Page: **Fiche Produit**
+ - Barre de navigation
+ - Section En-tête de Produit Ecommerce: Affichage du nom, photos principales, prix et informations essentielles du produit
+ - Section Produit Ecommerce: Détails complets du produit : description, variantes (taille, couleur), spécifications, disponibilité
+ - Section Galerie: Images multiples et zoom du produit
+ - Section Liste de Fonctionnalités: Liste des principales caractéristiques du produit
+ - Section Témoignages: Mise en avant de quelques avis clients récents
+ - Section FAQ: Réponses aux questions fréquentes sur ce produit
+ - Section CTA (Appel à l'Action): Bouton d’ajout au panier et options d’achat rapides
+ - Section Contact: Lien ou formulaire pour poser une question au vendeur
+ - Pied de Page
+
+Page: **Panier**
+ - Barre de navigation
+ - Section Produit Ecommerce: Liste des produits ajoutés au panier, avec détails (nom, prix, quantité, vendeur, variantes) et possibilité de modifier/supprimer chaque produit.
+ - Section Tarification: Résumé du panier : sous-total, frais de port estimés, total général.
+ - Section CTA (Appel à l'Action): Bouton "Passer à la commande" (checkout) pour poursuivre le processus d'achat.
+ - Section FAQ: Questions fréquentes concernant le panier, la livraison, ou la modification des commandes.
+ - Pied de Page
+
+Page: **Commande**
+ - Barre de navigation
+ - Section En-tête: Titre de la page ("Votre commande") avec court descriptif (ex : "Retrouvez le récapitulatif et le suivi de votre commande.")
+ - Section Fonctionnalité: Récapitulatif détaillé de la commande : produits, quantités, vendeurs, prix, frais de port
+ - Section Fonctionnalité: Gestion des adresses de livraison et informations de facturation
+ - Section Fonctionnalité: Statut de la commande et progression (ex : paiement, préparation, expédition, livraison)
+ - Section Liste de Fonctionnalités: Actions possibles : télécharger facture, contacter vendeur, annuler la commande (selon statut)
+ - Section FAQ: Questions fréquentes sur la gestion et le suivi des commandes
+ - Section CTA (Appel à l'Action): Invitation à consulter le catalogue ou à contacter le support en cas de problème
+ - Pied de Page
+
+Sub-pages: Suivi Commande
+
+
+Page: **Suivi Commande**
+ - Barre de navigation
+ - Section En-tête: Titre clair (ex : "Suivi de votre commande") avec un sous-titre rassurant ("Consultez le statut et les détails de livraison de vos commandes en temps réel").
+ - Section Chronologie: Présentation visuelle de l’avancement de la commande en différentes étapes (ex : Commande passée, En préparation, Expédiée, En cours de livraison, Livrée).
+ - Section Fonctionnalité: Bloc affichant le récapitulatif de la commande (produits, quantités, vendeur, prix).
+ - Section Localisation: Carte ou suivi du colis si applicable (tracking transporteur intégré ou informations de livraison à jour).
+ - Section FAQ: Réponses rapides aux questions fréquentes sur la livraison et le suivi des commandes.
+ - Section CTA: Appel à l’action pour contacter le support en cas de problème avec la commande.
+ - Pied de Page
+
+Page: **Avis Produit**
+ - Barre de navigation
+ - Section En-tête de Publication de Blog: Titre de la page, nom du produit concerné, image du produit, note moyenne, nombre total d’avis.
+ - Section Liste de Fonctionnalités: Liste des principales fonctionnalités du système d’avis : notation 5 étoiles, avis texte, ajout de photos, réponses vendeur, modération.
+ - Section Témoignages: Affichage des avis clients : note, texte, photos, date, nom/pseudo client.
+ - Section Avis: Possibilité de filtrer les avis (par note, avec/sans photo, récents).
+ - Section CTA (Appel à l’Action): Inviter l’utilisateur à laisser un avis s’il a acheté ce produit.
+ - Section FAQ: Réponses aux questions fréquentes sur la publication et la modération des avis.
+ - Pied de Page
+
+Page: **Administration**
+ - Barre de navigation
+ - Section En-tête: Titre de la page ("Administration"), bref descriptif ("Gérez les utilisateurs, vendeurs, produits et la plateforme depuis un tableau de bord centralisé. Accès réservé aux administrateurs.").
+ - Section Fonctionnalité: Dashboard global : aperçu statistiques clés (utilisateurs, ventes, nouveaux vendeurs, signalements, etc.).
+ - Section Liste de Fonctionnalités: Gestion des utilisateurs (suspension, activation) ; Validation des vendeurs ; Modération produits et avis ; Gestion des litiges basique ; Export données et rapports.
+ - Section Fonctionnalité: Modération des avis et des produits : visualisation rapide des éléments à valider ou à modérer.
+ - Section Fonctionnalité: Gestion des litiges : suivi et résolution des réclamations signalées par les utilisateurs ou vendeurs.
+ - Section CTA: Lien ou bouton d’accès rapide vers les principales actions d’administration (ex : « Accéder à la gestion des utilisateurs », « Exporter les rapports »).
+ - Pied de Page
+
+Sitemap: **Sitemap 2**
+Pages: Accueil
+
+Page: **Accueil**
+ - Barre de navigation
+ - Section En-tête Hero: Présentation de la plateforme, message de valeur principal (ex : "La marketplace tout-en-un pour acheteurs et vendeurs – Achetez, vendez, gérez facilement.")
+ - Section Liste de Fonctionnalités: Présentation des fonctionnalités clés : Inscription/connexion multi-rôles, gestion catalogue, panier multi-vendeurs, paiement sécurisé, dashboard vendeur, administration complète.
+ - Section Comment ça Marche: Explication des étapes principales : 1. Inscrivez-vous, 2. Parcourez ou créez des boutiques, 3. Achetez ou vendez en toute simplicité.
+ - Section Témoignages: Avis d’utilisateurs ou vendeurs satisfaits pour renforcer la confiance.
+ - Section Tarification: Présentation claire des offres ou structure tarifaire (si applicable).
+ - Section CTA (Appel à l'Action): Bouton d’appel à l’action fort : "Rejoignez la marketplace" ou "Commencez dès maintenant".
+ - Section FAQ: Réponses aux questions courantes pour rassurer et informer les nouveaux utilisateurs.
+ - Section Contact: Informations pour contacter l’équipe ou obtenir de l’aide.
+ - Pied de Page
+
+Sub-pages: Inscription/Connexion, Mot de passe oublié, Vérification email, Profil utilisateur, Catalogue, Devenir vendeur, Boutique vendeur, Panier, Commande, Avis produit, Administration, FAQ, Contact
+
+
+Page: **Inscription/Connexion**
+ - Barre de navigation
+ - Section En-tête Hero: Introduction rapide et message de bienvenue pour inciter à la création de compte ou à la connexion
+ - Section Formulaire CTA: Formulaire double : inscription (avec choix du rôle acheteur/vendeur) et connexion
+ - Section Accès Anticipé: Lien rapide pour s’inscrire et découvrir la plateforme
+ - Section Contact: Assistance ou aide en cas de problème d’accès
+ - Pied de Page
+
+Page: **Mot de passe oublié**
+ - Barre de navigation
+ - Section En-tête: Titre accrocheur "Réinitialisez votre mot de passe" et court texte explicatif
+ - Section Formulaire de Contact: Formulaire de réinitialisation de mot de passe (saisie de l’email, bouton Envoyer)
+ - Section CTA (Appel à l'Action): Lien retour à la page de connexion
+ - Pied de Page
+
+Page: **Vérification email**
+ - Barre de navigation
+ - Section En-tête: Titre : "Vérification de votre adresse email" + bref message d’introduction
+ - Section CTA (Appel à l'Action): Message d’instruction pour vérifier l’email et bouton pour renvoyer l’email si besoin
+ - Pied de Page
+
+Page: **Profil utilisateur**
+ - Barre de navigation
+ - Section En-tête: Présentation du profil utilisateur (nom, rôle, photo)
+ - Section Fonctionnalité: Gestion des informations de profil (modification des infos personnelles, changement mot de passe)
+ - Section Fonctionnalité: Gestion des notifications et préférences
+ - Section Fonctionnalité: Historique des commandes ou activités récentes
+ - Section CTA: Lien ou bouton pour se déconnecter ou supprimer le compte
+ - Pied de Page
+
+Page: **Catalogue**
+ - Barre de navigation
+ - Section En-tête Hero: Présentation du catalogue produits avec moteur de recherche et filtres principaux.
+ - Section Liste de Fonctionnalités: Navigation par catégories, recherche avec filtres, affichage des variantes simples.
+ - Section Liste de Produits Ecommerce: Affichage des produits disponibles avec images multiples, prix, variantes (taille, couleur), et accès rapide aux fiches détaillées.
+ - Section FAQ: Réponses aux questions fréquentes sur la navigation, la recherche ou le processus d'achat.
+ - Pied de Page
+
+Sub-pages: Produit
+
+
+Page: **Produit**
+ - Barre de navigation
+ - Section En-tête de Produit Ecommerce: Nom, images principales, bref résumé du produit
+ - Section Produit Ecommerce: Détails complets du produit : description, variantes (taille, couleur), galerie d’images, prix
+ - Section Liste de Fonctionnalités: Caractéristiques clés du produit (bénéfices, usages, matériaux, etc.)
+ - Section FAQ: Questions fréquentes spécifiques au produit
+ - Section Témoignages: Avis clients et notes
+ - Section CTA (Appel à l'Action): Bouton d’ajout au panier ou achat immédiat
+ - Pied de Page
+
+Page: **Devenir vendeur**
+ - Barre de navigation
+ - Section En-tête: Présentation du programme vendeur et encouragement à rejoindre la plateforme
+ - Section Liste de Fonctionnalités: Liste des avantages clés pour les vendeurs : visibilité, outils de gestion, messagerie, statistiques, etc.
+ - Section Comment ça Marche: Explication des étapes pour devenir vendeur (inscription, validation, création boutique, mise en ligne des produits)
+ - Section Témoignages: Retours d'expérience de vendeurs déjà inscrits
+ - Section Formulaire CTA: Formulaire pour candidater en tant que vendeur
+ - Pied de Page
+
+Page: **Boutique vendeur**
+ - Barre de navigation
+ - Section En-tête: Présentation de la boutique : nom, logo, description, bannière, liens sociaux
+ - Section Liste de Fonctionnalités: Aperçu rapide : nombre de produits, catégories, évaluations moyennes, délai de réponse
+ - Section Galerie: Images de la boutique ou ambiance visuelle (optionnel)
+ - Section Liste de Produits Ecommerce: Liste des produits en vente par ce vendeur
+ - Section Témoignages: Avis clients sur la boutique (optionnel)
+ - Section Contact: Coordonnées ou formulaire de contact direct avec le vendeur
+ - Pied de Page
+
+Sub-pages: Produit vendeur
+
+
+Page: **Produit vendeur**
+ - Barre de navigation
+ - Section En-tête de Produit Ecommerce: Titre du produit, images principales, nom du vendeur, prix
+ - Section Produit Ecommerce: Détails complets du produit : description, variantes (taille/couleur), caractéristiques
+ - Section Galerie: Images multiples du produit
+ - Section Liste de Fonctionnalités: Liste des points forts ou options du produit (ex : matières, options personnalisables)
+ - Section Tarification: Présentation détaillée du prix, remises éventuelles
+ - Section CTA: Bouton « Ajouter au panier » ou « Acheter maintenant »
+ - Section Témoignages: Avis et retours clients sur ce produit
+ - Section FAQ: Questions fréquentes sur le produit
+ - Section Contact: Lien ou bouton pour contacter le vendeur
+ - Pied de Page
+
+Page: **Panier**
+ - Barre de navigation
+ - Section Produit Ecommerce: Liste des produits ajoutés au panier par l’utilisateur, regroupés par vendeur
+ - Section Tarification: Récapitulatif des sous-totaux, frais de port, et total à payer
+ - Section CTA (Appel à l’Action): Bouton pour passer à l’étape de paiement (Checkout)
+ - Pied de Page
+
+Page: **Commande**
+ - Barre de navigation
+ - Section En-tête: Titre de la page Commande, résumé du processus d’achat
+ - Section Produit Ecommerce: Liste des produits dans la commande avec quantités, variantes et prix
+ - Section Tarification: Récapitulatif des totaux, frais de port, taxes, montant final
+ - Section Contact: Récapitulatif des adresses de livraison et facturation
+ - Section Liste de Fonctionnalités: Statut de la commande, mode de paiement, options de suivi
+ - Section FAQ: Questions fréquentes sur la gestion ou la livraison des commandes
+ - Section CTA: Lien pour suivre la commande ou contacter le support
+ - Pied de Page
+
+Sub-pages: Suivi commande
+
+
+Page: **Suivi commande**
+ - Barre de navigation
+ - Section En-tête: Titre de la page : « Suivi de votre commande » avec un bref texte introductif expliquant que l’utilisateur peut consulter l’état et le détail de ses commandes.
+ - Section Statistiques: Résumé visuel : nombre de commandes en cours, livrées, annulées.
+ - Section Chronologie: Frise chronologique du statut de la commande : Commande passée → Paiement validé → Expédition → Livraison.
+ - Section Fonctionnalité: Détail du suivi colis avec numéro de suivi, transporteur et lien de suivi externe si disponible.
+ - Section Témoignages: Encouragement à laisser un avis une fois la commande livrée (« Partagez votre expérience ! »).
+ - Section FAQ: Questions fréquentes sur le suivi et la livraison des commandes.
+ - Pied de Page
+
+Page: **Avis produit**
+ - Barre de navigation
+ - Section En-tête de Publication de Blog: Titre de la page, nom du produit, image principale et note globale (ex. "Avis pour [Nom du Produit]").
+ - Section Corps de Publication de Blog: Liste des avis clients avec texte, photos, note étoilée, date, et détails de l'auteur.
+ - Section Avis: Résumé statistique : répartition des notes, score moyen, nombre total d’avis, avis mis en avant.
+ - Section Formulaire CTA: Formulaire pour soumettre un nouvel avis avec texte, note (étoiles) et upload photo.
+ - Section FAQ: Questions fréquentes sur les avis (modération, délais de publication, etc.).
+ - Pied de Page
+
+Page: **Administration**
+ - Barre de navigation
+ - Section En-tête: Titre de la page, icône d’administration, brève description des capacités du module admin (gestion centralisée, contrôle total de la plateforme).
+ - Section Liste de Fonctionnalités: Liste des principales fonctionnalités de l’administration :
+ - Section Fonctionnalité: Focus sur la modération : outils pour approuver/refuser produits, avis, et vendeurs.
+ - Section Fonctionnalité: Focus sur le suivi et l’analyse : accès aux rapports et exports (ventes, activité, utilisateurs).
+ - Section CTA (Appel à l'Action): Lien vers la documentation d’administration, ou bouton pour accéder au dashboard admin.
+ - Pied de Page
+
+Sub-pages: Utilisateurs, Vendeurs, Rapports
+
+
+Page: **Utilisateurs**
+ - Barre de navigation
+ - Section En-tête: Titre de la page, introduction à la gestion des utilisateurs (ex : "Gestion des utilisateurs de la plateforme").
+ - Section Liste de Fonctionnalités: Liste des actions principales : gestion des profils, suspension/activation, réinitialisation mot de passe, vérification email, export des données.
+ - Section Statistiques: Présentation de statistiques globales sur les utilisateurs (nombre total, actifs, suspendus, nouveaux inscrits).
+ - Section FAQ: Réponses aux questions fréquentes sur la gestion des utilisateurs, sécurité, rôles, etc.
+ - Section Contact: Lien ou information pour contacter l’assistance concernant les utilisateurs.
+ - Pied de Page
+
+Page: **Vendeurs**
+ - Barre de navigation
+ - Section En-tête: Introduction à l’espace dédié aux vendeurs : "Gérez votre activité, vos produits et vos commandes facilement grâce à votre interface vendeur."
+ - Section Liste de Fonctionnalités: Présentation des principales fonctionnalités pour les vendeurs : candidature avec validation admin, création/gestion boutique, gestion catalogue et inventaires, dashboard statistiques, gestion commandes, messagerie acheteurs.
+ - Section Comment ça Marche: Explication des étapes pour devenir vendeur et gérer sa boutique : 1. Déposez votre candidature, 2. Créez votre boutique, 3. Ajoutez vos produits, 4. Gérez vos commandes et échangez avec vos clients.
+ - Section Statistiques: Aperçu des statistiques vendeurs accessibles via le dashboard (ventes, commandes, performances).
+ - Section Témoignages: Avis de vendeurs existants sur la facilité d’utilisation et le support de la plateforme.
+ - Section CTA (Appel à l'Action): Invitation à devenir vendeur ou à accéder à l’espace vendeur : "Commencez à vendre dès aujourd’hui !"
+ - Pied de Page
+
+Page: **Rapports**
+ - Barre de navigation
+ - Section En-tête: Titre de la page ("Rapports & Analyses") et brève introduction sur l'importance du suivi des performances et de la gestion des données sur la plateforme.
+ - Section Liste de Fonctionnalités: Liste des rapports disponibles : ventes totales, commandes, nouveaux utilisateurs, statistiques vendeurs, litiges, exportation des données.
+ - Section Statistiques: Visualisations de données clés (graphiques/barres/camemberts) : évolution des ventes, nombre de commandes, top vendeurs/produits.
+ - Section Chronologie: Affichage de l’évolution chronologique des données principales (ex : ventes par mois/semaine).
+ - Section CTA (Appel à l'Action): Lien ou bouton pour télécharger/exporter les rapports ou demander un rapport personnalisé.
+ - Pied de Page
+
+Page: **FAQ**
+ - Barre de navigation
+ - Section En-tête: Titre de la page FAQ, texte introductif sur l’aide disponible, mise en avant du support utilisateur.
+ - Section FAQ: Liste structurée des questions fréquentes (ex : inscription, gestion compte, fonctionnement achats/ventes, sécurité, commandes, avis, litiges, administration…).
+ - Section CTA (Appel à l'Action): Invitation à contacter le support si réponse non trouvée ("Vous n’avez pas trouvé votre réponse ? Contactez-nous !").
+ - Section Contact: Informations de contact rapide (formulaire, email, téléphone).
+ - Pied de Page
+
+Page: **Contact**
+ - Barre de navigation
+ - Section En-tête: Titre engageant (ex : "Contactez-nous" ou "Une question ? Nous sommes là pour vous aider"), court texte introductif sur la disponibilité de l’équipe.
+ - Section Formulaire de Contact: Formulaire de contact complet (nom, email, sujet, message).
+ - Section Contact: Informations complémentaires : email support, adresse postale (si nécessaire), horaires de disponibilité, liens vers les réseaux sociaux.
+ - Section Newsletter: Encouragement à s’inscrire à la newsletter pour recevoir les dernières actualités et mises à jour.
+ - Section FAQ: Mini-FAQ pour répondre aux questions fréquentes avant d’envoyer un message.
+ - Pied de Page
